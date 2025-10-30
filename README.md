@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
 ### Reg No: 212223230047
-### Name: Dharshini K
-### Date:
+### Name: DHARSHINI K
+### Date: 28/8/25
 
 
 ## AIM:
